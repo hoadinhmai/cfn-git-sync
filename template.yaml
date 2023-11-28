@@ -1,0 +1,8 @@
+Resources:
+  TestParam:
+    Type: AWS::SSM::Parameter
+    Properties:
+      Name: /test/param
+      Type: String
+      Value: test123
+      Description: Test param
