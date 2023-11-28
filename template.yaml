@@ -4,5 +4,5 @@ Resources:
     Properties:
       Name: /test/param
       Type: String
-      Value: test123
+      Value: test456
       Description: Test param
